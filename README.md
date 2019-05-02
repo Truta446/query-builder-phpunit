@@ -1,2 +1,7 @@
 # query-builder-phpunit
-TDD with phpunit
+Project made with PHP to learn TDD.
+
+#### Test Application:
+```
+vendor/bin/phpunit
+```
